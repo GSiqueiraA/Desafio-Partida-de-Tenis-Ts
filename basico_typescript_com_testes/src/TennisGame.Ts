@@ -1,4 +1,6 @@
 //https://dojopuzzles.com/problems/partida-de-tenis/ resolvendo o desafio
+
+export class TennisGame{
 class TennisGame {
   private pontuacao = { jogador1: 0, jogador2: 0 };
 
@@ -26,8 +28,8 @@ class TennisGame {
     }
   }
 }
+}
 
-export default TennisGame;
 //npm init -y
 //npm i -D jest
 //npm test
