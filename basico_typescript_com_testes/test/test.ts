@@ -59,3 +59,4 @@ jogo.marcarPonto(1);
 expect(jogo.vencedorDoGame()).toBe('Jogador 1');
 });
 }
+)
