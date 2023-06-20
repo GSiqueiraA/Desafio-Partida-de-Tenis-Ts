@@ -1,6 +1,6 @@
 //https://dojopuzzles.com/problems/partida-de-tenis/ resolvendo o desafio
 
-export class TennisGame{
+export default class TennisGame{
 class TennisGame {
   private pontuacao = { jogador1: 0, jogador2: 0 };
 
