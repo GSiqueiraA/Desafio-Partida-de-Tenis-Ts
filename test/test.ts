@@ -1,4 +1,4 @@
-import TennisGame from "../basico_typescript_com_testes/src/TennisGame.Ts";
+import TennisGame from "../src/TennisGame.Ts";
 
 describe('Partida iniciada', () => {
 test('Ambos os jogadores começam com zero pontos', () => {
